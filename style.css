@@ -1,0 +1,19 @@
+.rectangle{
+   height: 200px;
+   width: 100%;
+}
+.aqua{
+   background-color: aquamarine;
+}
+.burly{
+   background-color: burlywood;
+}
+.cadet{
+   background-color: cadetblue;
+}
+.dark{
+   background-color: darkblue;
+}
+.forest{
+   background-color: forestgreen;
+}
